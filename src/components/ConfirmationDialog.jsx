@@ -17,3 +17,6 @@ const ConfirmationDialog = ({children, onConfirm, onCancel}) => {
 }
 
 export default ConfirmationDialog
+
+
+// user deleting page take confirmation 
